@@ -1,8 +1,8 @@
 ## Olá, me chamo Edgar
 <div>
-  <a href="https://github.com/edgarxongas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarxongas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarxongas&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EdgarJMesquita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarJMesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJMesquita&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
   
